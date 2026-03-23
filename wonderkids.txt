@@ -1,44 +1,168 @@
 ====================================================================================================================================
-FC 26 WONDERKID LİSTESİ (Mart 2026 - Title Update v1.5)
+FC 26 WONDERKID LİSTESİ - TAM ve DÜZENLİ VERSİYON (Mart 2026 - Title Update v1.5)
+====================================================================================================================================
+Veri Kaynağı: FUTWIZ + SoFIFA + GOAL (Mart 2026)
+Sıralama: Her pozisyonda POT (Potansiyel) en yüksekten düşüğe
+
+KISALTMA REHBERİ:
+KL         : Kaleci
+D(M)       : Stoper
+D(Sol)     : Sol Bek
+D(Sağ)     : Sağ Bek
+DOS        : Defansif Orta Saha (CDM)
+OS(M)      : Merkez Orta Saha (CM)
+OOS        : Ofansif Orta Saha / 10 Numara (CAM)
+RM/RW      : Sağ Kanat & Sağ Orta Saha
+LM/LW      : Sol Kanat & Sol Orta Saha
+SNT        : Santrafor (ST / CF)
+
+====================================================================================================================================
+1. KALECİLER (KL)
 ====================================================================================================================================
 | Adı                            | Uyruk          | Mevki | Takım                  | Yaş | Değer      | OVR | POT | Maaş     | Taktiksel Rol / Tarz     |
 |--------------------------------|----------------|-------|------------------------|-----|------------|-----|-----|----------|--------------------------|
 | Lucas Chevalier                | Fransa         | KL    | PSG                    | 22  | £35.6m     | 83  | 88  | £45k     | Sweeper Keeper           |
-| Guillaume Restes               | Fransa         | KL    | Toulouse               | 20  | £21.5m     | 78  | 86  | £25k     | Sweeper Keeper           |
 | Anatoliy Trubin                | Ukrayna        | KL    | Benfica                | 23  | £29.0m     | 80  | 87  | £35k     | Line Keeper              |
 | Senne Lammens                  | Belçika        | KL    | Manchester Utd         | 22  | £22.3m     | 78  | 87  | £30k     | Traditional Keeper       |
+| Guillaume Restes               | Fransa         | KL    | Toulouse               | 20  | £21.5m     | 78  | 86  | £25k     | Sweeper Keeper           |
 | Konstantinos Tzolakis          | Yunanistan     | KL    | Olympiacos             | 22  | £24.5m     | 79  | 86  | £20k     | Traditional Keeper       |
 | Maarten Vandevoordt            | Belçika        | KL    | RB Leipzig             | 23  | £11.5m     | 76  | 86  | £18k     | Sweeper Keeper           |
+| Tommaso Martinelli             | İtalya         | KL    | Fiorentina             | 19  | £15m       | 70  | 85  | £12k     | Sweeper Keeper           |
 | Matthieu Epolo                 | Belçika        | KL    | Standard Liège         | 20  | £5.2m      | 73  | 85  | £8k      | Line Keeper              |
 | Mike Penders                   | Belçika        | KL    | Strasbourg             | 20  | £25m       | 73  | 84  | £15k     | Sweeper Keeper           |
-| Rome-Jayden Owusu-Oduro        | Hollanda       | KL    | AZ Alkmaar             | 20  | £3.2m      | 71  | 84  | £2.2k    | Sweeper Keeper           |
-| Dennis Seimen                  | Almanya        | KL    | SC Paderborn 07        | 19  | £1.6m      | 66  | 84  | £3k      | Traditional Keeper       |
 | Jonas Urbig                    | Almanya        | KL    | Bayern Munich          | 21  | £6.9m      | 74  | 84  | £13k     | Sweeper Keeper           |
 | James Trafford                 | İngiltere      | KL    | Manchester City        | 22  | £12.5m     | 73  | 84  | £35k     | Sweeper Keeper           |
 | Zion Suzuki                    | Japonya        | KL    | Parma                  | 22  | £6.9m      | 73  | 84  | £8k      | Traditional Keeper       |
+| Antonin Kinsky                 | Çekya          | KL    | Spurs                  | 22  | £6.5m      | 74  | 84  | £30k     | Line Keeper              |
+| Rome-Jayden Owusu-Oduro        | Hollanda       | KL    | AZ Alkmaar             | 20  | £3.2m      | 71  | 84  | £2.2k    | Sweeper Keeper           |
 | Robin Risser                   | Fransa         | KL    | RC Lens                | 20  | £9.0m      | 75  | 83  | £8k      | Line Keeper              |
 | Obed Nkambadio                 | Fransa         | KL    | Paris FC               | 22  | £6.9m      | 72  | 83  | £15k     | Sweeper Keeper           |
 | Lucca Brughmans                | Belçika        | KL    | KRC Genk               | 17  | £0.5m      | 59  | 82  | £1k      | Sweeper Keeper           |
 | Tobe Leysen                    | Belçika        | KL    | OH Leuven              | 23  | £4.3m      | 70  | 82  | £5k      | Line Keeper              |
 | Pascal Loretz                  | İsviçre        | KL    | FC Luzern              | 22  | £3.0m      | 70  | 82  | £6k      | Sweeper Keeper           |
-| Sebastiano Desplanches         | İtalya         | KL    | Palermo                | 22  | £2.5m      | 69  | 81  | £4k      | Traditional Keeper       |
-| Chris Brady                    | ABD            | KL    | Chicago Fire           | 21  | £2.3m      | 69  | 80  | £2k      | Footwork Keeper          |
-| Andre Gomes                    | Portekiz       | KL    | Alverca (Benfica)      | 20  | £2.0m      | 68  | 80  | £3k      | Line Keeper              |
-| Fran Gonzalez                  | İspanya        | KL    | Real Madrid            | 20  | £2.2m      | 67  | 80  | £5k      | Traditional Keeper       |
-| Joeri Heerkens                 | Hollanda       | KL    | Ajax                   | 19  | £1.8m      | 64  | 80  | £2k      | Sweeper Keeper           |
 | Ewen Jaouen                    | Fransa         | KL    | Stade de Reims         | 19  | £2.0m      | 68  | 82  | £5k      | Sweeper Keeper           |
-| Mathys Niflore                 | Fransa         | KL    | USL Dunkerque          | 18  | £0.9m      | 63  | 81  | £2k      | Classic Keeper           |
 | Tiago Pereira Cardoso          | Portekiz       | KL    | Gladbach               | 19  | £1.5m      | 67  | 82  | £4k      | Sweeper Keeper           |
-| Antonin Kinsky                 | Çekya          | KL    | Spurs                  | 22  | £6.5m      | 74  | 84  | £30k     | Line Keeper              |
-| Kerem Matişli                  | Türkiye        | KL    | Bursaspor              | 18  | £200k      | 65  | 78  | £1k      | Traditional Keeper       |
-| Onuralp Çevikkan               | Türkiye        | KL    | Trabzonspor            | 19  | £4m        | 68  | 79  | £3k      | Sweeper Keeper           |
-| Spike Brits                    | İngiltere      | KL    | Manchester City        | 18  | £300k      | 62  | 79  | £1k      | Footwork Keeper          |
-| Plamen Andreev                 | Bulgaristan    | KL    | Feyenoord              | 20  | £3m        | 68  | 80  | £5k      | Traditional Keeper       |
-| Áron Yaakobishvili             | Macaristan     | KL    | Gimnàstic Manresa      | 19  | £7m        | 66  | 80  | £4k      | Sweeper Keeper           |
-| Diogo Ferreira                 | Portekiz       | KL    | SL Benfica             | 18  | £1.7m      | 64  | 80  | £2k      | Line Keeper              |
-| Tommaso Martinelli             | İtalya         | KL    | Fiorentina             | 19  | £15m       | 70  | 85  | £12k     | Sweeper Keeper           |
-| Ferrán Quetglás                | İspanya        | KL    | Real Madrid B          | 20  | £14m       | 72  | 84  | £10k     | Traditional Keeper       |
-| João Pedro                     | Brezilya       | KL    | Santos                 | 17  | £11m       | 68  | 83  | £8k      | Sweeper Keeper           |
-| Florian Hellstern              | Almanya        | KL    | VfB Stuttgart          | 17  | £18m       | 65  | 82  | £5k      | Line Keeper              |
-| Ben Vickery                    | İngiltere      | KL    | Manchester City        | 16  | £3m        | 62  | 81  | £2k      | Footwork Keeper          |
-| Diego Kochen                   | ABD            | KL    | Barcelona              | 19  | £17m       | 71  | 84  | £15k     | Sweeper Keeper           |
+
+====================================================================================================================================
+2. STOPERLER (D(M))
+====================================================================================================================================
+| Adı                            | Uyruk          | Mevki | Takım                  | Yaş | Değer      | OVR | POT | Maaş     | Taktiksel Rol / Tarz          |
+|--------------------------------|----------------|-------|------------------------|-----|------------|-----|-----|----------|-------------------------------|
+| Dean Huijsen                   | Hollanda       | D(M)  | Real Madrid            | 20  | £45.0m     | 82  | 89  | £55k     | Ball-Playing Defender         |
+| Pau Cubarsí                    | İspanya        | D(M)  | Barcelona              | 18  | £32.6m     | 82  | 88  | £40k     | Ball-Playing Defender         |
+| Castello Lukeba                | Fransa         | D(M)  | RB Leipzig             | 22  | £35.9m     | 80  | 88  | £45k     | Stopper / Wide CB             |
+| Finn Jeltsch                   | Almanya        | D(M)  | VfB Stuttgart          | 19  | £9.5m      | 72  | 87  | £10k     | Ball-Playing Defender         |
+| Luka Vuskovic                  | Hırvatistan    | D(M)  | Hamburger SV           | 18  | £8.2m      | 72  | 87  | £8k      | Ball-Playing CB               |
+| El Chadaille Bitshiabu         | Fransa         | D(M)  | RB Leipzig             | 20  | £14.0m     | 75  | 87  | £18k     | Sweeper CB                    |
+| Ousmane Diomande               | Fildişi Sahili | D(M)  | Sporting CP            | 21  | £32.2m     | 80  | 87  | £30k     | Stopper / Physical CB         |
+| Joel Ordonez                   | Ekvador        | D(M)  | Club Brugge            | 21  | £13.3m     | 75  | 87  | £17k     | Ball-Playing Defender         |
+| Leny Yoro                      | Fransa         | D(M)  | Manchester Utd         | 17  | £23.0m     | 78  | 86  | £25k     | Sweeper CB                    |
+| Giorgio Scalvini               | İtalya         | D(M)  | Atalanta               | 21  | £18.9m     | 81  | 86  | £34k     | Ball-Playing CB               |
+| António Silva                  | Portekiz       | D(M)  | Benfica                | 21  | £23.7m     | 78  | 86  | £25k     | Ball-Playing Defender         |
+| Matte Smets                    | Belçika        | D(M)  | KRC Genk               | 21  | £12.6m     | 76  | 86  | £12k     | Ball-Playing Defender         |
+| Noah Mbamba                    | Belçika        | D(M)  | Bayer Leverkusen       | 19  | £12.0m     | 74  | 86  | £15k     | Stopper                       |
+| Pietro Comuzzo                 | İtalya         | D(M)  | Fiorentina             | 20  | £7.8m      | 74  | 86  | £15k     | Traditional Stopper           |
+| Yusuf Akçiçek                  | Türkiye        | D(M)  | Al-Hilal               | 19  | £27.0m     | 76  | 84  | £20k     | Ball-Playing CB               |
+| Salih Malkoçoğlu               | Türkiye        | D(M)  | Trabzonspor            | 20  | £2.0m      | 68  | 82  | £5k      | Stopper                       |
+
+====================================================================================================================================
+3. SOL BEKLER (D(Sol))
+====================================================================================================================================
+| Adı                            | Uyruk          | Mevki     | Takım                  | Yaş | Değer      | OVR | POT | Maaş     | Taktiksel Rol / Tarz              |
+|--------------------------------|----------------|-----------|------------------------|-----|------------|-----|-----|----------|-----------------------------------|
+| Jorrel Hato                    | Hollanda       | D(Sol)/D(M)| Chelsea                | 19  | £23.4m     | 78  | 89  | £25k     | Inverted Fullback                 |
+| Myles Lewis-Skelly             | İngiltere      | D(Sol)/OS(M)| Arsenal                | 18  | £22.7m     | 78  | 87  | £18k     | Inverted Wing-Back                |
+| Nuno Mendes                    | Portekiz       | D(Sol)    | PSG                    | 23  | £55.0m     | 85  | 90  | £80k     | Attacking Wing-Back               |
+| Alejandro Balde                | İspanya        | D(Sol)    | Barcelona              | 22  | £45.0m     | 84  | 88  | £70k     | Attacking Wing-Back               |
+| Milos Kerkez                   | Macaristan     | D(Sol)    | Liverpool              | 21  | £33.5m     | 82  | 86  | £45k     | Attacking Wing-Back               |
+| Lewis Hall                     | İngiltere      | D(Sol)    | Newcastle Utd          | 20  | £24.9m     | 80  | 86  | £35k     | Attacking Wing-Back               |
+| Valentin Barco                 | Arjantin       | D(Sol)    | Brighton               | 21  | £18.0m     | 76  | 86  | £25k     | Complete Wing-Back                |
+| Diego León                     | Paraguay       | D(Sol)    | Manchester Utd         | 18  | £1.5m      | 64  | 85  | £4k      | Attacking Wing-Back               |
+| Berkay Yılmaz                  | Türkiye        | D(Sol)/LWB| 1. FC Nürnberg         | 20  | £5.0m      | 68  | 82  | £8k      | Attacking Wing-Back               |
+
+====================================================================================================================================
+4. SAĞ BEKLER (D(Sağ))
+====================================================================================================================================
+| Adı                            | Uyruk          | Mevki     | Takım                  | Yaş | Değer      | OVR | POT | Maaş     | Taktiksel Rol / Tarz              |
+|--------------------------------|----------------|-----------|------------------------|-----|------------|-----|-----|----------|-----------------------------------|
+| Givairo Read                   | Hollanda       | D(Sağ)    | Feyenoord              | 19  | £10.4m     | 75  | 88  | £12k     | Attacking Wing-Back               |
+| Malo Gusto                     | Fransa         | D(Sağ)    | Chelsea                | 22  | £38.0m     | 82  | 87  | £50k     | Attacking Wing-Back               |
+| Tino Livramento                | İngiltere      | D(Sağ)    | Newcastle Utd          | 22  | £25.6m     | 80  | 86  | £40k     | Complete Wing-Back                |
+| Arnau Martínez                 | İspanya        | D(Sağ)    | Girona                 | 22  | £22.0m     | 79  | 86  | £30k     | Ball-Playing Fullback             |
+| Joaquin Seys                   | Belçika        | D(Sağ)    | Club Brugge            | 20  | £5.6m      | 73  | 86  | £8k      | Balanced Fullback                 |
+| Marc Pubill                    | İspanya        | D(Sağ)    | Atletico Madrid        | 22  | £20.0m     | 78  | 85  | £30k     | Attacking Wing-Back               |
+
+====================================================================================================================================
+5. DEFANSİF ORTA SAHA (DOS / CDM)
+====================================================================================================================================
+| Adı                            | Uyruk          | Mevki | Takım                  | Yaş | Değer      | OVR | POT | Maaş     | Taktiksel Rol / Tarz              |
+|--------------------------------|----------------|-------|------------------------|-----|------------|-----|-----|----------|-----------------------------------|
+| Jorthy Mokio                   | Belçika        | DOS   | Ajax                   | 17  | £3.1m      | 70  | 89  | £3k      | Holding Midfielder                |
+| Kobbie Mainoo                  | İngiltere      | DOS   | Manchester Utd         | 20  | £45.0m     | 82  | 88  | £55k     | Deep-Lying Playmaker              |
+| Aleksandar Pavlović            | Almanya        | DOS   | Bayern Munich          | 21  | £30.1m     | 79  | 87  | £35k     | Deep-Lying Playmaker              |
+| Carlos Baleba                  | Kamerun        | DOS   | Brighton               | 21  | £30.9m     | 81  | 87  | £40k     | Box-to-Box / Destroyer            |
+| Johnny Cardoso                 | ABD            | DOS   | Atletico Madrid        | 23  | £30.5m     | 81  | 87  | £45k     | Ball-Winning Midfielder           |
+| Marc Casadó                    | İspanya        | DOS   | Barcelona              | 21  | £27.2m     | 79  | 86  | £35k     | Deep-Lying Playmaker              |
+| Adam Wharton                   | İngiltere      | DOS   | Crystal Palace         | 21  | £27.2m     | 79  | 86  | £30k     | Deep-Lying Playmaker              |
+
+====================================================================================================================================
+6. MERKEZ ORTA SAHA (OS(M) / CM)
+====================================================================================================================================
+| Adı                            | Uyruk          | Mevki   | Takım                  | Yaş | Değer      | OVR | POT | Maaş     | Taktiksel Rol / Tarz              |
+|--------------------------------|----------------|---------|------------------------|-----|------------|-----|-----|----------|-----------------------------------|
+| Arthur Vermeeren               | Belçika        | OS(M)   | Marseille              | 20  | £28.0m     | 77  | 91  | £35k     | Roaming Playmaker                 |
+| João Neves                     | Portekiz       | OS(M)   | PSG                    | 20  | £64.0m     | 85  | 90  | £70k     | Box-to-Box Midfielder             |
+| Gavi                           | İspanya        | OS(M)   | Barcelona              | 21  | £66.0m     | 84  | 89  | £80k     | Advanced Playmaker                |
+| Mikel Jauregizar               | İspanya        | OS(M)   | Athletic Bilbao        | 21  | £28.5m     | 78  | 88  | £30k     | Central Midfielder                |
+
+====================================================================================================================================
+7. OFANSİF ORTA SAHA (OOS / CAM - Klasik 10 Numara)
+====================================================================================================================================
+| Adı                            | Uyruk          | Mevki | Takım                  | Yaş | Değer      | OVR | POT | Maaş     | Taktiksel Rol / Tarz                  |
+|--------------------------------|----------------|-------|------------------------|-----|------------|-----|-----|----------|---------------------------------------|
+| Kenan Yıldız                   | Türkiye        | OOS   | Juventus               | 20  | £34.1m     | 79  | 89  | £40k     | Shadow Striker / Classic No.10        |
+| Nico Paz                       | Arjantin       | OOS   | Como                   | 21  | £34.1m     | 79  | 89  | £35k     | Advanced Playmaker                    |
+| Rodrigo Mora                   | Portekiz       | OOS   | Porto                  | 18  | £15.4m     | 76  | 89  | £15k     | Advanced Playmaker                    |
+| Franco Mastantuono             | Arjantin       | OOS   | Real Madrid            | 17  | £19.1m     | 77  | 88  | £18k     | Attacking Midfielder / No.10          |
+| Xavi Simons                    | Hollanda       | OOS   | RB Leipzig             | 22  | £55.0m     | 83  | 89  | £70k     | Advanced Playmaker / No.10            |
+
+====================================================================================================================================
+8. SAĞ KANAT & SAĞ ORTA SAHA (RM / RW)
+====================================================================================================================================
+| Adı                            | Uyruk          | Mevki   | Takım                  | Yaş | Değer        | OVR | POT | Maaş       | Taktiksel Rol / Tarz              |
+|--------------------------------|----------------|---------|------------------------|-----|--------------|-----|-----|------------|-----------------------------------|
+| Lamine Yamal                   | İspanya        | RM/RW   | Barcelona              | 18  | £119m-147m   | 89  | 95  | £115k-120k | Inside Forward                    |
+| Désiré Doué                    | Fransa         | RW      | PSG                    | 20  | £68m-83m     | 85  | 91  | £75k       | Inverted Winger                   |
+| Estêvão                        | Brezilya       | RM/RW   | Chelsea                | 18  | £26.4m       | 78  | 89  | £25k       | Inverted Winger                   |
+| Arda Güler                     | Türkiye        | RM      | Real Madrid            | 20  | £45.5m-52m   | 81  | 89  | £45k-116k  | Wide Playmaker                    |
+| Geovany Quenda                 | Portekiz       | RM      | Sporting CP            | 18  | £15.4m       | 76  | 88  | £15k       | Classic Winger                    |
+| Ethan Nwaneri                  | İngiltere      | RW/RM   | Arsenal                | 18  | £13.9m       | 76  | 87  | £12k-58k   | Inside Forward                    |
+
+====================================================================================================================================
+9. SOL KANAT & SOL ORTA SAHA (LM / LW)
+====================================================================================================================================
+| Adı                            | Uyruk          | Mevki   | Takım                  | Yaş | Değer        | OVR | POT | Maaş       | Taktiksel Rol / Tarz              |
+|--------------------------------|----------------|---------|------------------------|-----|--------------|-----|-----|------------|-----------------------------------|
+| Antonio Nusa                   | Norveç         | LM      | RB Leipzig             | 20  | £22.8m-37m   | 77  | 89  | £30k       | Inside Forward                    |
+| Rio Ngumoha                    | İngiltere      | LM/LW   | Liverpool              | 17  | £3.0m        | 68  | 88  | £2k        | Inverted Winger                   |
+| Cardoso Varela                 | ?              | LW      | Dinamo Zagreb          | 16  | £2.8m        | 68  | 88  | £5k        | Inside Forward                    |
+| Assane Diao Diaoune            | İspanya        | LM      | Como                   | 20  | £14.4m       | 76  | 87  | £18k       | Inside Forward                    |
+| Christos Tzolis                | Yunanistan     | LW/LM   | Club Brugge            | 23  | £37.9m       | 80  | 87  | £40k       | Classic Winger                    |
+| Malick Fofana                  | Belçika        | LW/LM   | Lyon                   | 20  | £28.0m       | 78  | 86  | £30k       | Inverted Winger                   |
+
+====================================================================================================================================
+10. SANTRAFORLAR (SNT / ST / CF)
+====================================================================================================================================
+| Adı                            | Uyruk          | Mevki | Takım                        | Yaş | Değer          | OVR | POT | Maaş       | Taktiksel Rol / Tarz              |
+|--------------------------------|----------------|-------|------------------------------|-----|----------------|-----|-----|------------|-----------------------------------|
+| Endrick                        | Brezilya       | SNT   | Real Madrid                  | 19  | £20m-35m       | 77  | 91  | £35k       | Advanced Forward                  |
+| Francesco Camarda              | İtalya         | SNT   | Lecce (Milan kiralık)        | 17  | £2.3m          | 65  | 87  | £3k        | Poacher                           |
+| Benjamin Šeško                 | Slovenya       | SNT   | Manchester City              | 22  | £42m           | 80  | 88  | £65k       | Target Forward                    |
+| Mathys Tel                     | Fransa         | SNT   | Tottenham                    | 20  | £19m-23.8m     | 77  | 86  | £30k       | Complete Forward                  |
+| Evan Ferguson                  | İrlanda        | SNT   | Brighton                     | 20  | £25m           | 78  | 86  | £35k       | Advanced Forward                  |
+| Jhon Durán                     | Kolombiya      | SNT   | Fenerbahçe                   | 21  | £31m-36.8m     | 79  | 86  | £33k       | Target Forward                    |
+| George Ilenikhena              | ?              | SNT   | Monaco                       | 19  | £12m           | 75  | 86  | £18k       | Advanced Forward                  |
+| Vitor Roque                    | Brezilya       | SNT   | Real Betis                   | 20  | £18.5m         | 77  | 85  | £30k       | Advanced Forward                  |
+| Semih Kılıçsoy                 | Türkiye        | SNT   | Cagliari                     | 19  | £24m           | 76  | 84  | £20k       | Advanced Forward                  |
+| Marc Guiu                      | İspanya        | SNT   | Chelsea                      | 19  | £3.5m          | 71  | 84  | £6k        | Poacher                           |
+| Chido Obi                      | Nijerya        | SNT   | Manchester Utd               | 17  | £1.5m          | 65  | 84  | £2k        | Advanced Forward                  |
