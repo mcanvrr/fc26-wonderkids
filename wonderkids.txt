@@ -1,1 +1,44 @@
-
+====================================================================================================================================
+FC 26 WONDERKID LİSTESİ (Mart 2026 - Title Update v1.5)
+====================================================================================================================================
+| Adı                            | Uyruk          | Mevki | Takım                  | Yaş | Değer      | OVR | POT | Maaş     | Taktiksel Rol / Tarz     |
+|--------------------------------|----------------|-------|------------------------|-----|------------|-----|-----|----------|--------------------------|
+| Lucas Chevalier                | Fransa         | KL    | PSG                    | 22  | £35.6m     | 83  | 88  | £45k     | Sweeper Keeper           |
+| Guillaume Restes               | Fransa         | KL    | Toulouse               | 20  | £21.5m     | 78  | 86  | £25k     | Sweeper Keeper           |
+| Anatoliy Trubin                | Ukrayna        | KL    | Benfica                | 23  | £29.0m     | 80  | 87  | £35k     | Line Keeper              |
+| Senne Lammens                  | Belçika        | KL    | Manchester Utd         | 22  | £22.3m     | 78  | 87  | £30k     | Traditional Keeper       |
+| Konstantinos Tzolakis          | Yunanistan     | KL    | Olympiacos             | 22  | £24.5m     | 79  | 86  | £20k     | Traditional Keeper       |
+| Maarten Vandevoordt            | Belçika        | KL    | RB Leipzig             | 23  | £11.5m     | 76  | 86  | £18k     | Sweeper Keeper           |
+| Matthieu Epolo                 | Belçika        | KL    | Standard Liège         | 20  | £5.2m      | 73  | 85  | £8k      | Line Keeper              |
+| Mike Penders                   | Belçika        | KL    | Strasbourg             | 20  | £25m       | 73  | 84  | £15k     | Sweeper Keeper           |
+| Rome-Jayden Owusu-Oduro        | Hollanda       | KL    | AZ Alkmaar             | 20  | £3.2m      | 71  | 84  | £2.2k    | Sweeper Keeper           |
+| Dennis Seimen                  | Almanya        | KL    | SC Paderborn 07        | 19  | £1.6m      | 66  | 84  | £3k      | Traditional Keeper       |
+| Jonas Urbig                    | Almanya        | KL    | Bayern Munich          | 21  | £6.9m      | 74  | 84  | £13k     | Sweeper Keeper           |
+| James Trafford                 | İngiltere      | KL    | Manchester City        | 22  | £12.5m     | 73  | 84  | £35k     | Sweeper Keeper           |
+| Zion Suzuki                    | Japonya        | KL    | Parma                  | 22  | £6.9m      | 73  | 84  | £8k      | Traditional Keeper       |
+| Robin Risser                   | Fransa         | KL    | RC Lens                | 20  | £9.0m      | 75  | 83  | £8k      | Line Keeper              |
+| Obed Nkambadio                 | Fransa         | KL    | Paris FC               | 22  | £6.9m      | 72  | 83  | £15k     | Sweeper Keeper           |
+| Lucca Brughmans                | Belçika        | KL    | KRC Genk               | 17  | £0.5m      | 59  | 82  | £1k      | Sweeper Keeper           |
+| Tobe Leysen                    | Belçika        | KL    | OH Leuven              | 23  | £4.3m      | 70  | 82  | £5k      | Line Keeper              |
+| Pascal Loretz                  | İsviçre        | KL    | FC Luzern              | 22  | £3.0m      | 70  | 82  | £6k      | Sweeper Keeper           |
+| Sebastiano Desplanches         | İtalya         | KL    | Palermo                | 22  | £2.5m      | 69  | 81  | £4k      | Traditional Keeper       |
+| Chris Brady                    | ABD            | KL    | Chicago Fire           | 21  | £2.3m      | 69  | 80  | £2k      | Footwork Keeper          |
+| Andre Gomes                    | Portekiz       | KL    | Alverca (Benfica)      | 20  | £2.0m      | 68  | 80  | £3k      | Line Keeper              |
+| Fran Gonzalez                  | İspanya        | KL    | Real Madrid            | 20  | £2.2m      | 67  | 80  | £5k      | Traditional Keeper       |
+| Joeri Heerkens                 | Hollanda       | KL    | Ajax                   | 19  | £1.8m      | 64  | 80  | £2k      | Sweeper Keeper           |
+| Ewen Jaouen                    | Fransa         | KL    | Stade de Reims         | 19  | £2.0m      | 68  | 82  | £5k      | Sweeper Keeper           |
+| Mathys Niflore                 | Fransa         | KL    | USL Dunkerque          | 18  | £0.9m      | 63  | 81  | £2k      | Classic Keeper           |
+| Tiago Pereira Cardoso          | Portekiz       | KL    | Gladbach               | 19  | £1.5m      | 67  | 82  | £4k      | Sweeper Keeper           |
+| Antonin Kinsky                 | Çekya          | KL    | Spurs                  | 22  | £6.5m      | 74  | 84  | £30k     | Line Keeper              |
+| Kerem Matişli                  | Türkiye        | KL    | Bursaspor              | 18  | £200k      | 65  | 78  | £1k      | Traditional Keeper       |
+| Onuralp Çevikkan               | Türkiye        | KL    | Trabzonspor            | 19  | £4m        | 68  | 79  | £3k      | Sweeper Keeper           |
+| Spike Brits                    | İngiltere      | KL    | Manchester City        | 18  | £300k      | 62  | 79  | £1k      | Footwork Keeper          |
+| Plamen Andreev                 | Bulgaristan    | KL    | Feyenoord              | 20  | £3m        | 68  | 80  | £5k      | Traditional Keeper       |
+| Áron Yaakobishvili             | Macaristan     | KL    | Gimnàstic Manresa      | 19  | £7m        | 66  | 80  | £4k      | Sweeper Keeper           |
+| Diogo Ferreira                 | Portekiz       | KL    | SL Benfica             | 18  | £1.7m      | 64  | 80  | £2k      | Line Keeper              |
+| Tommaso Martinelli             | İtalya         | KL    | Fiorentina             | 19  | £15m       | 70  | 85  | £12k     | Sweeper Keeper           |
+| Ferrán Quetglás                | İspanya        | KL    | Real Madrid B          | 20  | £14m       | 72  | 84  | £10k     | Traditional Keeper       |
+| João Pedro                     | Brezilya       | KL    | Santos                 | 17  | £11m       | 68  | 83  | £8k      | Sweeper Keeper           |
+| Florian Hellstern              | Almanya        | KL    | VfB Stuttgart          | 17  | £18m       | 65  | 82  | £5k      | Line Keeper              |
+| Ben Vickery                    | İngiltere      | KL    | Manchester City        | 16  | £3m        | 62  | 81  | £2k      | Footwork Keeper          |
+| Diego Kochen                   | ABD            | KL    | Barcelona              | 19  | £17m       | 71  | 84  | £15k     | Sweeper Keeper           |
